@@ -1,6 +1,9 @@
 .body {
-    background-color: FFD9F0;
+    background-color: yellowgreen;
 }
 .headergif {
-    float: initial;
+    flex:  top;
+}
+.h1 {
+    color: violet;
 }
