@@ -1,9 +1,9 @@
-.body {
+.bodystyle {
     background-color: yellowgreen;
 }
 .headergif {
     flex:  top;
 }
-.h1 {
+.h1style {
     color: violet;
 }
